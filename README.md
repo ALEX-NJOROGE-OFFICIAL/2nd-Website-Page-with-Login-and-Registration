@@ -1,5 +1,7 @@
 # 2nd-Website-Page-with-Login-and-Registration
 
-Building page creating skills with more pages. Added different styling and extra buttons.
+Building page creation skills with more pages styles.
+
+Added different styling and extra buttons.
 
 Experimenting with more javascript.
